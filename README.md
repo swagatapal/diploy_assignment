@@ -24,7 +24,7 @@ include basic unit test code
 Features:
 1. Product Listing: 
  - Show a list with product name, image, and price. 
- - Data can be hardcoded or from a JSON file. 
+ - Data is used from a hardcoded list. 
  - Add a search bar to filter products by name.
 2. Product Details: 
  - On product tap, navigate to a detail view with name, image, description, and price.
