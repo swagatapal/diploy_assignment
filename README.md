@@ -6,7 +6,7 @@ A new Flutter project.
 
 Flutter sdk Version is 3.22.2
 
-Download the code from github 
+Download the code from github (from master branch)
 
 set the flutter sdk version 
 
