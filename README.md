@@ -17,6 +17,8 @@ run the code in android studio or vs code
 
 state management : Provider
 
+used shared pref to store the cart details.
+
 Hero animation used 
 
 include basic unit test code
