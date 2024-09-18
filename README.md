@@ -5,7 +5,7 @@ A new Flutter project.
 ## Getting Started
 ![search](https://github.com/user-attachments/assets/45834120-1a92-4572-94d0-b2c561afbe47)
 ![product_details](https://github.com/user-attachments/assets/cbce96f4-1fbc-45a1-9789-57e5550b7109)
-![cart](https://githu![product_list](https://github.com/user-attachments/assets/48b1d42b-5958-4aae-9dad-89ea84d5de93)
+![cart](https://github.com/user-attachments/assets/48b1d42b-5958-4aae-9dad-89ea84d5de93)
 ![product_list](https://github.com/user-attachments/assets/951bdf46-7fc1-4398-8811-34da50f75733)
 
 Flutter sdk Version is 3.22.2
